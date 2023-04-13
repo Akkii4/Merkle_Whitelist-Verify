@@ -33,7 +33,7 @@ git clone https://github.com/your-username/merkle-tree-verify.git
 Then install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/merkle-tree-verify.git
+npm install
 ```
 
 ### Usage
