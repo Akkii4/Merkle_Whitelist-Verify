@@ -27,7 +27,7 @@ The test file `check.js` tests the functionality of the contract. It performs th
 To use this project, first clone the repository:
 
 ```bash
-git clone https://github.com/your-username/merkle-tree-verify.git
+git clone https://github.com/Akkii4/Merkle_Whitelist-Verify.git
 ```
 
 Then install the required dependencies:
